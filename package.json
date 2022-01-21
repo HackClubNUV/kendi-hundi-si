@@ -1,0 +1,30 @@
+{
+  "name": "kendi-hundi-si",
+  "version": "1.0.0",
+  "description": "A meme template api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackClubNUV/kendi-hundi-si.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/HackClubNUV/kendi-hundi-si/issues"
+  },
+  "homepage": "https://github.com/HackClubNUV/kendi-hundi-si#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "dotenv": "^14.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
